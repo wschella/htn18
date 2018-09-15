@@ -1,0 +1,9 @@
+{
+  "name": "htn18",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wschella/htn18.git",
+  "author": "HTN Team Cool",
+  "license": "MIT",
+  "private": false
+}
